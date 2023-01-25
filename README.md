@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kylietwise
-- 👀 I’m interested in all things data, particularly computer vision, text analysis and visualization!
+- 👀 A data-driven individual with a passion for creating positive impact. I’m particularly interested in all things data, particularly computer vision, text analysis and visualization!
 
 <!---
 kylietwise/kylietwise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
